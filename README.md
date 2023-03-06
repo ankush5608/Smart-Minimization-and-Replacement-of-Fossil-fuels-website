@@ -1,1 +1,1 @@
-# Smart-Minimization-and-Replacement-of-Fossil-fuels-website
+# Smart-Minimization-and-Replacement-of-Fossil-fuels website
