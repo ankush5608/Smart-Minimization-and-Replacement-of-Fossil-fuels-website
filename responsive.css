@@ -1,0 +1,74 @@
+@media(max-width:600px)
+{
+ /* *{border:2px solid red;} */
+
+ .wel {
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-size: 26px;
+    color: white;
+    text-align: center;
+    margin-top: 86px;
+}
+.container .card{
+    margin-bottom: 106px;
+}
+.begintxt{
+    margin-bottom:44px;
+    margin-top: 44px;
+}
+.video1{
+    max-width:84vw
+}
+.txtmain
+{
+    padding-left:0;
+    margin:28px;
+}
+
+}
+
+
+
+
+
+
+@media (min-width:600px) and (max-width:900px)
+{
+    .section{
+        max-height:226px;
+    }
+    .video1{
+        margin-bottom:36px;
+        max-width:84vw;
+    }
+    .intro{
+        font-size: 28px;
+    }
+    .container .card{
+        margin: 62px 40px;
+    }
+    .txtmain{
+        padding-left: 0px;
+    }
+    .why1{
+        margin-bottom: 50px;
+    }
+    .abc{font-size: 32px;
+    }
+    .texto img{
+        max-width:48px;
+        max-height:48px;
+    }
+    .mainskew1{
+        max-height:210px;
+    }
+    .imagebaba{
+        max-height:280px;
+    }
+    .texto{
+        height:186px;
+    }
+    .conthead{
+        margin-top:140px;
+    }
+}
